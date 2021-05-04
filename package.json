@@ -1,6 +1,6 @@
 {
-  "name": "webcrypto-liner",
-  "version": "1.2.4",
+  "name": "@stagas/webcrypto-liner",
+  "version": "1.2.4-1",
   "description": "A WebCrypto polyfill that \"smooths out\" the rough-edges in existing User Agent implementations.",
   "main": "build/index.js",
   "module": "build/index.es.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PeculiarVentures/webcrypto-liner"
+    "url": "git+https://github.com/stagas/webcrypto-liner"
   },
   "dependencies": {
     "@peculiar/asn1-schema": "^2.0.27",

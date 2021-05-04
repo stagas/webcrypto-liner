@@ -24,7 +24,7 @@ export function BrowserInfo() {
     if (typeof self === "undefined") {
         return res;
     }
-    const userAgent = self.navigator.userAgent;
+    const userAgent = self?.navigator?.userAgent;
 
     let reg: string[] | null;
     // tslint:disable-next-line:no-conditional-assignment

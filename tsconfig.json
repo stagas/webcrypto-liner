@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "module": "commonjs",
-        "target": "es2015",
+        "target": "es2020",
         "sourceMap": false,
         "outDir": "build",
         "importHelpers": true,
